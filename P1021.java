@@ -12,7 +12,7 @@ public class P1021 {
         double valorUsuario = input.nextDouble();
         int valor = 0 ;
         
-     //era esse a diferença entre double e float? **Aplicativo onde usar um deles causava uma exceção
+     //era esse a diferença entre double e float? **Aplicativo onde usar um deles causava uma exceção 
         System.out.println("NOTAS:"); //um presentation error porque deixei (NOTAS: )com espaço
         //100
         //esse (int) é para conseguir manipular números int e double. Nesse caso, para dividir double (valorUsuario) por int (/100)
